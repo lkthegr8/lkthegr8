@@ -20,7 +20,6 @@ Talking formally about myself.
 
 - I aim to become filthy rich (so i decided to take this path of software developer)-(inspirations: Indian CEO's).
 - Focused mainly on MERN Stack web developing.
-
 - Languages I learnt: js, python, c, c++, HTML, CSS, PHP, java
 - Framework: react
 - Databases: MongoDB(NoSQL), SQL
