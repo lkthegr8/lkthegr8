@@ -1,4 +1,5 @@
-![enter image description here](./image%20for%20good%20git%20profile.jpg)
+
+![image for good git profile](https://user-images.githubusercontent.com/50818578/130353887-25a0e484-04a9-42b5-84b1-fc246465851b.jpg)
 
 # Hi there!
 
@@ -18,7 +19,7 @@ You can search the above word in google, even i searched for it.
 Talking formally about myself.
 
 - I aim to become filthy rich (so i decided to take this path of software developer)-(inspirations: Indian CEO's).
-- Focused mainly on MERN Stack web developing.![image for good git profile](https://user-images.githubusercontent.com/50818578/130353887-25a0e484-04a9-42b5-84b1-fc246465851b.jpg)
+- Focused mainly on MERN Stack web developing.
 
 - Languages I learnt: js, python, c, c++, HTML, CSS, PHP, java
 - Framework: react
