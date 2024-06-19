@@ -17,8 +17,8 @@ Databases : Mysql , MongoDb
 
 
 #### Profile links
-[<img src ="https://img.shields.io/badge/Resume-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white">](https://drive.google.com/file/d/1Kta3Du1BeKFGCpwrFjZlOm_HFBahYQ4a/view?usp=sharing)
+[<img src ="https://img.shields.io/badge/Resume-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white">](https://drive.google.com/file/d/1KkQMCmdAMxtOLacLD-ahqgp2JCQQwMVc/view?usp=sharing)
 [<img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"/>](https://leetcode.com/u/lkgr892/) 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://in.linkedin.com/in/lakshmikanth-mhetre-6375a5210) 
 [<img src ="https://img.shields.io/badge/Gmail-%23E4405F.svg?&style=for-the-badge&logo=gmail&logoColor=white">](mailto:lkgr892@gmail.com)
-[<img src ="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139">](lkthegr8.github.io/lkthegr8/)
+[<img src ="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139">](https://portfolio-next-js-peach-zeta.vercel.app/)
